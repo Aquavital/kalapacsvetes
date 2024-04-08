@@ -1,0 +1,14 @@
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\bin\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.exe
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\bin\Debug\netcoreapp3.1\Selejtezo2012.txt
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\bin\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.deps.json
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\bin\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.runtimeconfig.json
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\bin\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.runtimeconfig.dev.json
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\bin\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.dll
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\bin\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.pdb
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\obj\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.csprojAssemblyReference.cache
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\obj\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.AssemblyInfoInputs.cache
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\obj\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.AssemblyInfo.cs
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\obj\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\obj\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.dll
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\obj\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.pdb
+C:\Users\szoboszlai.attila\source\repos\2021_emelt_kalapacsvetes\2021_emelt_kalapacsvetes\obj\Debug\netcoreapp3.1\2021_emelt_kalapacsvetes.genruntimeconfig.cache
